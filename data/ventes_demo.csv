@@ -1,0 +1,201 @@
+date,client,montant,statut,commercial,source
+2026-06-01,Client A,1200,gagné,Marie,LinkedIn
+2026-06-02,Client B,450,perdu,Lucas,Email
+2026-06-03,Client C,800,gagné,Pierre,Site Web
+2026-01-17,Delta Services,1630,gagné,Sarah,Salon
+2026-01-22,EcoPrint,1550,en cours,Nadia,Recommandation
+2026-01-27,Finovia,1040,gagné,Thomas,Publicité
+2026-02-01,Groupe Saphir,1390,perdu,Marie,Appel sortant
+2026-02-06,Hotel Miramar,1310,en cours,Lucas,LinkedIn
+2026-02-11,ImmoPlus,1450,perdu,Pierre,Email
+2026-02-16,Jardin Pro,1800,en cours,Sarah,Site Web
+2026-02-21,Kappa Conseil,2370,gagné,Nadia,Salon
+2026-02-26,Logisfera,2510,perdu,Thomas,Recommandation
+2026-03-03,Maison Lumen,2210,gagné,Marie,Publicité
+2026-03-08,Nexora,2130,perdu,Lucas,Appel sortant
+2026-03-13,Optima RH,2270,en cours,Pierre,LinkedIn
+2026-03-18,Pharma Nord,2620,gagné,Sarah,Email
+2026-03-23,QualiBat,2540,en cours,Nadia,Site Web
+2026-03-28,Retail&Co,3330,gagné,Thomas,Salon
+2026-04-02,Studio Pixel,3690,perdu,Marie,Recommandation
+2026-04-07,TechnoSys,2950,en cours,Lucas,Publicité
+2026-04-12,Urban Move,3090,perdu,Pierre,Appel sortant
+2026-04-17,Vista Energie,3450,en cours,Sarah,LinkedIn
+2026-04-22,WebFactory,3360,gagné,Nadia,Email
+2026-04-27,Xeno Data,3500,perdu,Thomas,Site Web
+2026-05-02,Ypsilon Formation,4510,gagné,Marie,Salon
+2026-05-07,Zenith Auto,4420,perdu,Lucas,Recommandation
+2026-05-12,Alto Finance,3910,en cours,Pierre,Publicité
+2026-05-17,Bloom Media,4270,gagné,Sarah,Appel sortant
+2026-05-22,Cobalt Industrie,4190,en cours,Nadia,LinkedIn
+2026-05-27,Domus Care,4320,gagné,Thomas,Email
+2026-06-01,Atelier Nova,4680,perdu,Marie,Site Web
+2026-06-06,Bureau Atlas,5250,en cours,Lucas,Salon
+2026-06-11,Cabinet Horizon,5380,perdu,Pierre,Recommandation
+2026-06-16,Delta Services,5090,en cours,Sarah,Publicité
+2026-06-21,EcoPrint,360,gagné,Nadia,Appel sortant
+2026-01-04,Finovia,500,perdu,Thomas,LinkedIn
+2026-01-09,Groupe Saphir,850,gagné,Marie,Email
+2026-01-14,Hotel Miramar,770,perdu,Lucas,Site Web
+2026-01-19,ImmoPlus,1560,en cours,Pierre,Salon
+2026-01-24,Jardin Pro,1910,gagné,Sarah,Recommandation
+2026-01-29,Kappa Conseil,1180,en cours,Nadia,Publicité
+2026-02-03,Logisfera,1320,gagné,Thomas,Appel sortant
+2026-02-08,Maison Lumen,1670,perdu,Marie,LinkedIn
+2026-02-13,Nexora,1590,en cours,Lucas,Email
+2026-02-18,Optima RH,1730,perdu,Pierre,Site Web
+2026-02-23,Pharma Nord,2740,en cours,Sarah,Salon
+2026-02-28,QualiBat,2650,gagné,Nadia,Recommandation
+2026-03-05,Retail&Co,2140,perdu,Thomas,Publicité
+2026-03-10,Studio Pixel,2500,gagné,Marie,Appel sortant
+2026-03-15,TechnoSys,2410,perdu,Lucas,LinkedIn
+2026-03-20,Urban Move,2550,en cours,Pierre,Email
+2026-03-25,Vista Energie,2910,gagné,Sarah,Site Web
+2026-03-30,WebFactory,3470,en cours,Nadia,Salon
+2026-04-04,Xeno Data,3610,gagné,Thomas,Recommandation
+2026-04-09,Ypsilon Formation,3320,perdu,Marie,Publicité
+2026-04-14,Zenith Auto,3240,en cours,Lucas,Appel sortant
+2026-04-19,Alto Finance,3370,perdu,Pierre,LinkedIn
+2026-04-24,Bloom Media,3730,en cours,Sarah,Email
+2026-04-29,Cobalt Industrie,3650,gagné,Nadia,Site Web
+2026-05-04,Domus Care,4430,perdu,Thomas,Salon
+2026-05-09,Atelier Nova,4790,gagné,Marie,Recommandation
+2026-05-14,Bureau Atlas,4060,perdu,Lucas,Publicité
+2026-05-19,Cabinet Horizon,4190,en cours,Pierre,Appel sortant
+2026-05-24,Delta Services,4550,gagné,Sarah,LinkedIn
+2026-05-29,EcoPrint,4470,en cours,Nadia,Email
+2026-06-03,Finovia,4600,gagné,Thomas,Site Web
+2026-06-08,Groupe Saphir,5610,perdu,Marie,Salon
+2026-06-13,Hotel Miramar,5530,en cours,Lucas,Recommandation
+2026-06-18,ImmoPlus,370,perdu,Pierre,Publicité
+2026-06-23,Jardin Pro,720,en cours,Sarah,Appel sortant
+2026-01-06,Kappa Conseil,640,gagné,Nadia,LinkedIn
+2026-01-11,Logisfera,780,perdu,Thomas,Email
+2026-01-16,Maison Lumen,1130,gagné,Marie,Site Web
+2026-01-21,Nexora,1700,perdu,Lucas,Salon
+2026-01-26,Optima RH,1840,en cours,Pierre,Recommandation
+2026-01-31,Pharma Nord,1540,gagné,Sarah,Publicité
+2026-02-05,QualiBat,1460,en cours,Nadia,Appel sortant
+2026-02-10,Retail&Co,1600,gagné,Thomas,LinkedIn
+2026-02-15,Studio Pixel,1960,perdu,Marie,Email
+2026-02-20,TechnoSys,1870,en cours,Lucas,Site Web
+2026-02-25,Urban Move,2660,perdu,Pierre,Salon
+2026-03-02,Vista Energie,3020,en cours,Sarah,Recommandation
+2026-03-07,WebFactory,2280,gagné,Nadia,Publicité
+2026-03-12,Xeno Data,2420,perdu,Thomas,Appel sortant
+2026-03-17,Ypsilon Formation,2780,gagné,Marie,LinkedIn
+2026-03-22,Zenith Auto,2700,perdu,Lucas,Email
+2026-03-27,Alto Finance,2830,en cours,Pierre,Site Web
+2026-04-01,Bloom Media,3840,gagné,Sarah,Salon
+2026-04-06,Cobalt Industrie,3760,en cours,Nadia,Recommandation
+2026-04-11,Domus Care,3240,gagné,Thomas,Publicité
+2026-04-16,Atelier Nova,3600,perdu,Marie,Appel sortant
+2026-04-21,Bureau Atlas,3520,en cours,Lucas,LinkedIn
+2026-04-26,Cabinet Horizon,3650,perdu,Pierre,Email
+2026-05-01,Delta Services,4010,en cours,Sarah,Site Web
+2026-05-06,EcoPrint,4580,gagné,Nadia,Salon
+2026-05-11,Finovia,4720,perdu,Thomas,Recommandation
+2026-05-16,Groupe Saphir,4420,gagné,Marie,Publicité
+2026-05-21,Hotel Miramar,4340,perdu,Lucas,Appel sortant
+2026-05-26,ImmoPlus,4480,en cours,Pierre,LinkedIn
+2026-05-31,Jardin Pro,4830,gagné,Sarah,Email
+2026-06-05,Kappa Conseil,4750,en cours,Nadia,Site Web
+2026-06-10,Logisfera,5540,gagné,Thomas,Salon
+2026-06-15,Maison Lumen,1240,perdu,Marie,Recommandation
+2026-06-20,Nexora,510,en cours,Lucas,Publicité
+2026-01-03,Optima RH,650,perdu,Pierre,Appel sortant
+2026-01-08,Pharma Nord,1000,en cours,Sarah,LinkedIn
+2026-01-13,QualiBat,920,gagné,Nadia,Email
+2026-01-18,Retail&Co,1060,perdu,Thomas,Site Web
+2026-01-23,Studio Pixel,2070,gagné,Marie,Salon
+2026-01-28,TechnoSys,1980,perdu,Lucas,Recommandation
+2026-02-02,Urban Move,1470,en cours,Pierre,Publicité
+2026-02-07,Vista Energie,1830,gagné,Sarah,Appel sortant
+2026-02-12,WebFactory,1740,en cours,Nadia,LinkedIn
+2026-02-17,Xeno Data,1880,gagné,Thomas,Email
+2026-02-22,Ypsilon Formation,2240,perdu,Marie,Site Web
+2026-02-27,Zenith Auto,2800,en cours,Lucas,Salon
+2026-03-04,Alto Finance,2940,perdu,Pierre,Recommandation
+2026-03-09,Bloom Media,2650,en cours,Sarah,Publicité
+2026-03-14,Cobalt Industrie,2570,gagné,Nadia,Appel sortant
+2026-03-19,Domus Care,2700,perdu,Thomas,LinkedIn
+2026-03-24,Atelier Nova,3060,gagné,Marie,Email
+2026-03-29,Bureau Atlas,2980,perdu,Lucas,Site Web
+2026-04-03,Cabinet Horizon,3760,en cours,Pierre,Salon
+2026-04-08,Delta Services,4120,gagné,Sarah,Recommandation
+2026-04-13,EcoPrint,3390,en cours,Nadia,Publicité
+2026-04-18,Finovia,3520,gagné,Thomas,Appel sortant
+2026-04-23,Groupe Saphir,3880,perdu,Marie,LinkedIn
+2026-04-28,Hotel Miramar,3800,en cours,Lucas,Email
+2026-05-03,ImmoPlus,3940,perdu,Pierre,Site Web
+2026-05-08,Jardin Pro,4940,en cours,Sarah,Salon
+2026-05-13,Kappa Conseil,4860,gagné,Nadia,Recommandation
+2026-05-18,Logisfera,4350,perdu,Thomas,Publicité
+2026-05-23,Maison Lumen,4700,gagné,Marie,Appel sortant
+2026-05-28,Nexora,4620,perdu,Lucas,LinkedIn
+2026-06-02,Optima RH,4760,en cours,Pierre,Email
+2026-06-07,Pharma Nord,5120,gagné,Sarah,Site Web
+2026-06-12,QualiBat,1030,en cours,Nadia,Salon
+2026-06-17,Retail&Co,1170,gagné,Thomas,Recommandation
+2026-06-22,Studio Pixel,880,perdu,Marie,Publicité
+2026-01-05,TechnoSys,790,en cours,Lucas,Appel sortant
+2026-01-10,Urban Move,930,perdu,Pierre,LinkedIn
+2026-01-15,Vista Energie,1290,en cours,Sarah,Email
+2026-01-20,WebFactory,1200,gagné,Nadia,Site Web
+2026-01-25,Xeno Data,1990,perdu,Thomas,Salon
+2026-01-30,Ypsilon Formation,2350,gagné,Marie,Recommandation
+2026-02-04,Zenith Auto,1620,perdu,Lucas,Publicité
+2026-02-09,Alto Finance,1750,en cours,Pierre,Appel sortant
+2026-02-14,Bloom Media,2110,gagné,Sarah,LinkedIn
+2026-02-19,Cobalt Industrie,2030,en cours,Nadia,Email
+2026-02-24,Domus Care,2160,gagné,Thomas,Site Web
+2026-03-01,Atelier Nova,3170,perdu,Marie,Salon
+2026-03-06,Bureau Atlas,3090,en cours,Lucas,Recommandation
+2026-03-11,Cabinet Horizon,2570,perdu,Pierre,Publicité
+2026-03-16,Delta Services,2930,en cours,Sarah,Appel sortant
+2026-03-21,EcoPrint,2850,gagné,Nadia,LinkedIn
+2026-03-26,Finovia,2980,perdu,Thomas,Email
+2026-03-31,Groupe Saphir,3340,gagné,Marie,Site Web
+2026-04-05,Hotel Miramar,3910,perdu,Lucas,Salon
+2026-04-10,ImmoPlus,4050,en cours,Pierre,Recommandation
+2026-04-15,Jardin Pro,3750,gagné,Sarah,Publicité
+2026-04-20,Kappa Conseil,3670,en cours,Nadia,Appel sortant
+2026-04-25,Logisfera,3810,gagné,Thomas,LinkedIn
+2026-04-30,Maison Lumen,4160,perdu,Marie,Email
+2026-05-05,Nexora,4080,en cours,Lucas,Site Web
+2026-05-10,Optima RH,4870,perdu,Pierre,Salon
+2026-05-15,Pharma Nord,5220,en cours,Sarah,Recommandation
+2026-05-20,QualiBat,4490,gagné,Nadia,Publicité
+2026-05-25,Retail&Co,4630,perdu,Thomas,Appel sortant
+2026-05-30,Studio Pixel,4990,gagné,Marie,LinkedIn
+2026-06-04,TechnoSys,4900,perdu,Lucas,Email
+2026-06-09,Urban Move,390,en cours,Pierre,Site Web
+2026-06-14,Vista Energie,1400,gagné,Sarah,Salon
+2026-06-19,WebFactory,1310,en cours,Nadia,Recommandation
+2026-01-02,Xeno Data,800,gagné,Thomas,Publicité
+2026-01-07,Ypsilon Formation,1160,perdu,Marie,Appel sortant
+2026-01-12,Zenith Auto,1080,en cours,Lucas,LinkedIn
+2026-01-17,Alto Finance,1210,perdu,Pierre,Email
+2026-01-22,Bloom Media,1570,en cours,Sarah,Site Web
+2026-01-27,Cobalt Industrie,2140,gagné,Nadia,Salon
+2026-02-01,Domus Care,2270,perdu,Thomas,Recommandation
+2026-02-06,Atelier Nova,1980,gagné,Marie,Publicité
+2026-02-11,Bureau Atlas,1900,perdu,Lucas,Appel sortant
+2026-02-16,Cabinet Horizon,2030,en cours,Pierre,LinkedIn
+2026-02-21,Delta Services,2390,gagné,Sarah,Email
+2026-02-26,EcoPrint,2310,en cours,Nadia,Site Web
+2026-03-03,Finovia,3100,gagné,Thomas,Salon
+2026-03-08,Groupe Saphir,3450,perdu,Marie,Recommandation
+2026-03-13,Hotel Miramar,2720,en cours,Lucas,Publicité
+2026-03-18,ImmoPlus,2860,perdu,Pierre,Appel sortant
+2026-03-23,Jardin Pro,3210,en cours,Sarah,LinkedIn
+2026-03-28,Kappa Conseil,3130,gagné,Nadia,Email
+2026-04-02,Logisfera,3270,perdu,Thomas,Site Web
+2026-04-07,Maison Lumen,4270,gagné,Marie,Salon
+2026-04-12,Nexora,4190,perdu,Lucas,Recommandation
+2026-04-17,Optima RH,3680,en cours,Pierre,Publicité
+2026-04-22,Pharma Nord,4040,gagné,Sarah,Appel sortant
+2026-04-27,QualiBat,3950,en cours,Nadia,LinkedIn
+2026-05-02,Retail&Co,4090,gagné,Thomas,Email
+2026-05-07,Studio Pixel,4450,perdu,Marie,Site Web
+2026-05-12,TechnoSys,5010,en cours,Lucas,Salon
